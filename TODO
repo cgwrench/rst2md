@@ -1,0 +1,34 @@
+#    -*- mode: org -*-
+
+* Core features
+** Support the following reStructuredText markup syntax:
+
+   - title, author, and date [done]
+   - headers [done]
+   - code blocks
+   - block quotes
+   - images
+   - horizontal rules [done]
+   - ordered and enumerated lists
+   - field lists
+   - raw HTML (no other raw directives, e.g. LaTeX, will be supported)
+   - links
+   - strong and regular emphasis [done]
+   - inline literals
+   - superscript and subscript [done]
+   - footnotes
+   - tables
+
+   No other reStructuredText constructs are to be supported at this stage.
+
+** Support full (strict) Markdown syntax.
+** Write disutils setup script.
+** Implement unit tests and automatic test script.
+
+* Documentation
+** Contributing document.
+** Package overview and function reference.
+
+* Miscellaneous enhancements
+** Mark project as release 1.0 when core features have been implemented.
+** Add support for enhanced/extended Markdown syntaxes.
