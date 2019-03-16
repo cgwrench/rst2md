@@ -5,8 +5,8 @@
 [rst2md][] is a custom writer for Python's [Docutils][] document processing 
 system which converts [reStructuredText][] documents to [Markdown][].
 
-**Note**: This project is still in early development. See the file TODO for the
-immediate roadmap.
+**Note**: This project was a simple proof of concept. It's not complete or
+ready for production in any sense.
 
 ## License
 
